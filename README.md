@@ -6,5 +6,14 @@
 - [Nodejs](https://nodejs.org/en/download/package-manager)
 - [Express Js](https://www.npmjs.com/package/express)
   
-
+# Initial
+1. Get
+2.  Create
+3.  Post
+4.  Create
+5.  Patch
+6.  Update
+7.  Delete
+8.  Destroy
+    
 
