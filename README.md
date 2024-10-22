@@ -15,5 +15,12 @@
 6.  Update
 7.  Delete
 8.  Destroy
+
+# Extension to acess Api
+- REst Client
+
+#  software to acess Api
+- insomania
+- Postman
     
 
