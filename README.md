@@ -22,5 +22,9 @@
 #  software to acess Api
 - insomania
 - Postman
+
+# Learning resources
+- [Mockaroo](https://www.mockaroo.com/)
+- [reqRes](https://reqres.in/)
     
 
