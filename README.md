@@ -26,5 +26,9 @@
 # Learning resources
 - [Mockaroo](https://www.mockaroo.com/)
 - [reqRes](https://reqres.in/)
-    
+
+
+# Learning Goal 
+1. Making an API in C#
+2. Making an API in Javacript
 
