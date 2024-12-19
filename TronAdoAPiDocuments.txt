@@ -1,0 +1,47 @@
+
+
+   ---- TronAdo Apis
+   
+ 1) Api To Mobile Dashboard
+ 
+ url -- https://api.tronado.online/api/Api_Mob_Tronado/GetMobileAppDashBoard
+  
+   post Param { regno }
+   
+  2) Api To transfer bnb user to user
+ 
+ url -- https://api.tronado.online/api/Api_Mob_Tronado/transferbnbusertouser
+  
+   post Param { bnb_Amount ,to_address ,from_address , private_key ,regno }
+   
+    4) Api To transfer TRDO user to user
+ 
+ url -- https://api.tronado.online/api/Api_Mob_Tronado/transferTRDOusertouser
+  
+   post Param { trdo_amount ,to_address ,from_address , private_key ,regno }
+   
+   
+    5 ) Api To Genearta OTP To recover PrivateKey
+ 
+ url -- https://api.tronado.online/api/Api_Mob_Tronado/GeneartaOTPTorecoverPrivateKey
+  
+   post Param { regno , wallet_Address , }
+   
+   
+     6) Api To Match OTP Tp Recover PrivateKey
+ 
+ url -- https://api.tronado.online/api/Api_Mob_Tronado/MatchOTPTpRecoverPrivateKey
+  
+   post Param { regno , wallet_Address ,otp }
+   
+   7) Api To get BNB transaction history
+ 
+ url -- https://api.tronado.online/api/Api_Mob_Tronado/getBNBtransactionhistory
+  
+   post Param { regno }
+   
+  8) Api To Get TRDO Transaction History
+ 
+ url -- https://api.tronado.online/api/Api_Mob_Tronado/GetBTPTransactionHistory
+  
+   post Param { regno }
